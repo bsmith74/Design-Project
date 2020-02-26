@@ -1,0 +1,49 @@
+{
+"persons": [
+  {
+    "Person Code":"80855837",
+    "secIdentifier": "123465469",
+    "type": "E",
+    "First Name": "Brady",
+    "Last Name": "Smith",
+    "address": {
+      "street": "Ash St.",
+      "city": "Seward",
+      "state": "NE",
+      "country": "USA",
+      "zipcode": "68434"
+    },
+    "emails": [
+      "bsmith74@huskers.unl.edu"
+    ]
+  },
+  {
+    "Person Code":"123456789",
+    "First Name": "Sam",
+    "Last Name": "Briggs",
+    "address": {
+      "street": "123",
+      "city": "Seward",
+      "state": "NE",
+      "country": "USA",
+      "zipcode": "68434"
+    },
+    "emails": [
+      "123@gmail.com",
+      "321@gmail.com"
+    ]
+  },
+  {
+    "Person Code":"123254654",
+    "First Name": " Wade",
+    "Last Name": "Slepicka",
+    "address": {
+      "street": "123",
+      "city": "Seward",
+      "state": "NE",
+      "country": "USA",
+      "zipcode": "68434"
+    },
+    "emails": [    ]
+  }
+]}

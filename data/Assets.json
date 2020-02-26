@@ -1,0 +1,28 @@
+{
+"assets": [
+  {
+    "code": "123456",
+    "label": "Deposit",
+    "type": "Deposit",
+    "apr": 0.2
+  },
+  {
+    "code": "654321",
+    "label": "Stock",
+    "type": "S",
+    "baseRateOfReturn": 0.2,
+    "quarterlyDividend": 2000.0,
+    "sharePrice": 50.0,
+    "stockSymbol": "NA",
+    "beta": 10.0
+  },
+  {
+    "code": "78910",
+    "label": "Private Investment",
+    "type": "P",
+    "baseRateOfReturn": 0.2,
+    "quarterlyDividend": 2000.0,
+    "omega": 10.0,
+    "totalValue": 50000.0
+  }
+]}
